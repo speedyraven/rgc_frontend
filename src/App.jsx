@@ -14,7 +14,7 @@ function App() {
     e.preventDefault();
 
     try {
-      const response = await fetch('http://localhost:5001/api/prayers', {
+      const response = await fetch('https://rgc-backend.onrender.com/api/prayers', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
