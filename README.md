@@ -13,7 +13,7 @@
 ## Tech stack
 - React + Vite
 - [Styling, e.g. Tailwind or CSS]
-- [Routing, API calls, anything else you used]
+- [Routing, API calls, mongoDB ,firebase ]
 
 ## Run it locally
 1. Clone the repo:
