@@ -2,8 +2,8 @@
 
 [It is a church website used to describe about the church and it's events ]
 
-**Live demo:** [https://rgc-frontend-jz7h.vercel.app/]
-**Backend repo:** [link to rgc_backend]
+**Live demo:** https://rgc-frontend-jz7h.vercel.app/
+**Backend repo:** https://rgc-backend-zawy-s-projects.vercel.app/
 
 ![Screenshot](<img width="620" height="287" alt="image" src="https://github.com/user-attachments/assets/40c2b154-ec0c-45dc-b64b-1f364b209154" />
 )
