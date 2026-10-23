@@ -19,7 +19,7 @@
 ## Run it locally
 1. Clone the repo:
    ```
-   git clone [your repo link]
+   git clone https://github.com/speedyraven/rgc_frontend
    cd rgc_frontend
    ```
 2. Install dependencies:
