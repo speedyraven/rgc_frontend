@@ -4,8 +4,7 @@
 
 **Live demo:** https://rgc-frontend-jz7h.vercel.app/
 **Backend repo:** https://rgc-backend-zawy-s-projects.vercel.app/
-
-![Screenshot](<img width="620" height="287" alt="image" src="https://github.com/user-attachments/assets/40c2b154-ec0c-45dc-b64b-1f364b209154" />
+(<img width="620" height="287" alt="image" src="https://github.com/user-attachments/assets/40c2b154-ec0c-45dc-b64b-1f364b209154" />
 )
 
 ## Features
@@ -36,4 +35,5 @@
    ```
 
 ## My role
-[One or two sentences: what you built and what you learned.]
+I am web developer and i built this website . It is not really online or in use but it is working yeah 
+
